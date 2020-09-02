@@ -21,7 +21,7 @@ const TodoList = ({ todos, addTodo, toggleTodo }) => (
       source={{ uri: "http://yoctotta.com/decor.jpg" }}
       style={{
         width: "100%",
-        height: "100vh",
+        height: "100%",
         position: "absolute",
         top: 0,
         opacity: 0.4,
